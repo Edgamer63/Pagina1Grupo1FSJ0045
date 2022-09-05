@@ -1,0 +1,12 @@
+#menu{
+    top: -1px;
+    left: -1px;
+    width: 1920px;
+    height: 99px;
+    /* UI Properties */
+    background: #000F08 0% 0% no-repeat padding-box;
+    color: white;
+    opacity: 1;
+    margin:auto;
+    padding: 10px;
+}
