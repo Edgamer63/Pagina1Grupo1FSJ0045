@@ -21,15 +21,20 @@
     font-size: 64px;
 }
 
-.formulario{
+.perfil{
+    font-family: 'fs_ex';
+    text-align: center;
+}
+
+.carta{
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
-.perfil{
-    font-family: 'fs_ex';
-    text-align: center;
+.lista{
+    background-color:rgba(255, 255, 255, 0.5);
+    color: white;
 }
 
 body{
