@@ -6,6 +6,13 @@
 
 }
 
+@font-face {
+    font-family: 'roboto';
+    src: url('../../Roboto-Regular.ttf');
+	font-weight: normal;
+    font-style: normal;
+}
+
 #menu{
     font-family: 'fs_ex';
     top: -1px;
@@ -38,7 +45,7 @@
 }
 
 body{
-    
+    font-family: 'roboto';
     background-image: url('../img/background.jpg');
     color: white;
     background-color: #000F08;
