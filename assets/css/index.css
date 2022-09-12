@@ -12,20 +12,7 @@
     font-style: normal;
 }
 
-#menu{
-    font-family: 'fs_ex';
-    top: -1px;
-    left: -1px;
-    width: 1920px;
-    height: 99px;
-    /* UI Properties */
-    background: #000000 0% 0% no-repeat ;
-    color: yellow;
-    opacity: 1;
-    margin:auto;
-    padding: 10px;
-    font-size: 64px;
-}
+
 
 .formulario{
     display: flex;
@@ -43,4 +30,12 @@ body{
     background-image: url('../img/background.jpg');
     color: white;
     background-color: #000F08;
+}
+
+.titulo{
+    background-color: rgba(128, 128,128, 0.5);
+}
+
+.pretitulo{
+    background-color: rgba(0,0,0,0.5);
 }
